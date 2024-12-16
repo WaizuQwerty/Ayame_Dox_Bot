@@ -1,0 +1,5 @@
+
+aiogram
+aiohttp
+pydantic-settings
+diskcache
