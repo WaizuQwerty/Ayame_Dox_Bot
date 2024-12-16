@@ -123,5 +123,6 @@ PROBIVAPI_KEY=ваш_ключ_API
 
 Если у вас возникли вопросы или проблемы, свяжитесь с разработчиком проекта:
 
-- **WaizuQwerty**
+- Discord: Ownerguild **WaizuQwerty**
+- Server: [Ayame](https://discord.com/ayame)
 - GitHub: [WaizuQwerty](https://github.com/WaizuQwerty)
